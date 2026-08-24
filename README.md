@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adtreclove
 - 👀 I’m interested in games programming & development
-- 🌱 I’m currently learning Flutter, Python & C#
+- 🌱 I’m currently learning Flutter, TypeScript and Python
 - 📫 How to reach me: helenakloeckner1@gmail.com
 
 <!---
